@@ -2,7 +2,7 @@
 - I’m interested in Computer Science
 - Html,CSS
 - C,JAVA
-- Currently learning Python
+- Currently learning Python , Shell
 <!---
 shuhaibh/shuhaibh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
