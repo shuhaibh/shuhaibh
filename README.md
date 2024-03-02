@@ -1,7 +1,7 @@
 - Hi, I’m Muhammad Shuhaibh
 - I’m interested in Computer Science
 - Html,CSS
-- C,JAVA
+- C,JAVA,DS
 - Currently learning Python , Shell
 <!---
 shuhaibh/shuhaibh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
