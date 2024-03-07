@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuhaibh&label=Profile%20views&color=0e75b6&style=flat" alt="shuhaibh" /> </p>
 
 
-- 💬 Ask me about **HTML,CSS,JAVA,C**
+- 💬 Ask me about **HTML,CSS,JAVA,C,DS**
 
 - 📫 Reach me **shuhaib3913@gmail.com**
 
