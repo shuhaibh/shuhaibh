@@ -1,45 +1,60 @@
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shuhaibh.shuhaibh&left_color=gray&right_color=lightslategray"  />
+</div>
 
-<h3 align="center"></h3>
+###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shuhaibh&label=Profile%20views&color=0e75b6&style=flat" alt="shuhaibh" /> </p>
+<h3 align="left">Hi ! My name is Muhammad Shuhaibh and I'm an Aspiring Developer</h3>
 
-- 📫 Reach me **shuhaib3913@gmail.com**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad-shuhaibh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-shuhaibh" height="30" width="40" /></a>
-<a href="https://instagram.com/shuhaibh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shuhaibh_" height="30" width="40" /></a>
-</p>
+<h4 align="left">Connect with me:</h4>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-</a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a> 
-  
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" background-color="white"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    </p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuhaibh&show_icons=true&locale=en&layout=compact" alt="shuhaibh" /></p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/muhammad-shuhaibh/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/shuhaibh_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlRQmCsPkrKwxrcPVScdRnVlltXbQfzQQZNNpvqXbcRzgwwNMxHHsHVxRDwCrmHlZggSsB" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://codepen.io/Shuhaibh" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
+  </a>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shuhaibh&show_icons=true&locale=en" alt="shuhaibh" /></p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shuhaibh&" alt="shuhaibh" /></p>
+<h4 align="left">Languages and Tools:</h4>
 
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shuhaibh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=apprentice&hide_border=true" height="184" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=shuhaibh&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=true" height="155" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=shuhaibh&locale=en&mode=daily&theme=apprentice&hide_border=true&border_radius=5" height="142" alt="streak graph"  />
+</div>
+
+###
